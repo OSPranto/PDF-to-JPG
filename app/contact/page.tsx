@@ -98,7 +98,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold">Email</h3>
-                        <p className="text-muted-foreground">ospranto.official@gmail.com</p>
+                        <p className="text-muted-foreground">OSPranto.official@gmail.com</p>
                       </div>
                     </div>
 
@@ -114,7 +114,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold">Phone</h3>
-                        <p className="text-muted-foreground">+8801744298642</p>
+                        <p className="text-muted-foreground">+8801886595691</p>
                       </div>
                     </div>
 
@@ -132,7 +132,7 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-semibold">Address</h3>
                         <p className="text-muted-foreground">
-                          Nilphamari, Rangpur City
+                          Araihazar, Narayangaj
                           <br />
                           Bangladesh
                         </p>
@@ -148,7 +148,7 @@ export default function ContactPage() {
                   <CardContent>
                     <div className="flex flex-col space-y-4">
                       <a
-                        href="https://facebook.com/SWEETxFIRE"
+                        href="https://facebook.com/OSPranto.official"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center space-x-3 p-3 border hover:bg-muted/50 transition-colors duration-300 group"
@@ -160,12 +160,12 @@ export default function ContactPage() {
                         </div>
                         <div>
                           <h4 className="font-medium">Facebook</h4>
-                          <p className="text-sm text-muted-foreground">@SWEETxFIRE</p>
+                          <p className="text-sm text-muted-foreground">@OSPranto.Official</p>
                         </div>
                       </a>
 
                       <a
-                        href="https://t.me/hasan_x_fire"
+                        href="https://t.me/MrMysteryMoon"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center space-x-3 p-3 border hover:bg-muted/50 transition-colors duration-300 group"
@@ -177,12 +177,12 @@ export default function ContactPage() {
                         </div>
                         <div>
                           <h4 className="font-medium">Telegram</h4>
-                          <p className="text-sm text-muted-foreground">@hasan_x_fire</p>
+                          <p className="text-sm text-muted-foreground">@MrMysteryMoon</p>
                         </div>
                       </a>
 
                       <a
-                        href="https://tiktok.com/@hasan_x_fire"
+                        href="https://github.com/OSPranto"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center space-x-3 p-3 border hover:bg-muted/50 transition-colors duration-300 group"
@@ -193,8 +193,8 @@ export default function ContactPage() {
                           </svg>
                         </div>
                         <div>
-                          <h4 className="font-medium">TikTok</h4>
-                          <p className="text-sm text-muted-foreground">@hasan_x_fire</p>
+                          <h4 className="font-medium">Github</h4>
+                          <p className="text-sm text-muted-foreground">@OSPranto</p>
                         </div>
                       </a>
                     </div>
