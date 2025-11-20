@@ -126,14 +126,9 @@ export default function PrivacyPage() {
               <div>
                 <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
                 <p className="text-muted-foreground">
-                  If you have any questions about this Privacy Policy or our data practices, please contact us at:
+                  If you have any questions about this Privacy Policy or our data practices, please contact us 
                 </p>
-                <div className="mt-4 p-4 bg-muted">
-                  <p className="font-medium">Email: kinghasanbd1@gmail.com</p>
-                  <p className="font-medium">Phone: +8801744298642</p>
-                  <p className="font-medium">Address: Nilphamari, Rangpur City, Bangladesh</p>
-                </div>
-              </div>
+              
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">Changes to This Policy</h2>
